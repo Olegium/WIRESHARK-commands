@@ -100,6 +100,8 @@ DNS
 
 SMB / NTLM
 
+SMB (Server Message Block) — протокол Windows для доступа к файлам и папкам по сети.
+
     smb                          # SMBv1
     smb2                         # SMBv2/v3
     smb2.cmd == 0                # Negotiate Protocol
